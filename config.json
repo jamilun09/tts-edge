@@ -1,0 +1,15 @@
+{
+  "host": "0.0.0.0",
+  "port": 5005,
+  "api_key": "",
+  "default_voice_id": "id-ID-ArdiNeural",
+  "default_voice_ar": "ar-SA-HamedNeural",
+  "max_text_length": 300000,
+  "chunk_max_chars": 700,
+  "synthesis_retry": 4,
+  "synthesis_retry_delay_seconds": 1.5,
+  "request_rate_default": "+0%",
+  "request_pitch_default": "+0Hz",
+  "request_volume_default": "+0%",
+  "log_level": "INFO"
+}
